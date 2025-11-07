@@ -58,4 +58,5 @@ git clone https://github.com/BagroDeRose/ml-engineering-journey.git
 ---
 
 **Learning. Sharing. Growing.**
+
 **AI helps me properly maintain my Git in English.**
