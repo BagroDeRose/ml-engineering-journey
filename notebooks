@@ -1,1 +1,76 @@
+# 🧠 My Journey into Local AI Models
 
+It all started pretty casually, just scrolling through posts in Telegram channels.  
+
+One day, I stumbled upon a post about **PewDiePie**. In short: he first switched to **Arch Linux**, and now he built [his own $20,000 setup with 10 GPUs](https://youtu.be/qw4fDU18RcU), running eight open-source models locally. 😲  
+Even without finishing the video, I was immediately intrigued.
+
+---
+
+### Local Models: Llama.cpp
+
+Later, I saw a post about **Llama.cpp**. Quote:
+
+> "Run models locally, just like PewDiePie suggested — Llama.cpp now has a nice web interface.  
+> The UI is similar to ChatGPT, but everything works on your laptop without Wi-Fi.  
+> It supports over 150,000 GGUF models and allows loading PDFs, images, files, and parallel chats.  
+> Grab it [here for free and open-source](https://github.com/ggml-org/llama.cpp/discussions/16938)."
+
+Amazing, right? 😎  
+For me, it was a real breakthrough.
+
+---
+
+### My First AI Experiments
+
+Earlier, I tried creating a **Telegram AI bot**.  
+I connected via API using [OpenRouter.ai](https://openrouter.ai/).  
+
+While learning integration, I gained experience experimenting with different models.  
+Of course, token limits were a problem: to make the bot public, a huge number of tokens would be needed. 💸  
+I even loaded it with dozens of accounts and tried various models.  
+
+AI is a **human breakthrough**. Despite some job losses, new opportunities and professions appear. 🌍  
+
+The first bot wasn’t exactly as I imagined, but it gave me valuable experience.
+
+---
+
+### Creating a “Double” AI Bot
+
+The idea: make an **AI bot that answers like me**.  
+- I uploaded a **detailed biography of my life**, excluding personal contact info (except TG).  
+- Token issues were mostly gone — every request runs on my PC.  
+
+The only challenge: it struggles with languages other than English.  
+I try to maintain **Git and documentation in English** so more people can understand my projects.  
+The first public launch will be **Russian-speaking users**, but the goal is for the bot to handle **all languages**, just like leading AI companies. 🌐
+
+---
+
+### Technical Limitations
+
+I use **free open-source models** for development.  
+My PC has hardware limits, so I have to balance resources:
+
+| Component | Specs |
+|-----------|-------|
+| Motherboard | ROG STRIX B360-H GAMING |
+| CPU | Intel Core i5-9400F, 6 cores / 6 threads |
+| GPU | NVIDIA GeForce GTX 1660 |
+| RAM | 24 GB |
+
+---
+
+### Why Git?
+
+This morning, I decided to **start maintaining my Git properly**:  
+- Keep notes,  
+- Share projects,  
+- Document my learning journey.  
+
+AI is becoming part of everyone’s life, and I want my notes to be **useful and transparent** for anyone interested.  
+
+---
+
+✨ I hope this notebook inspires anyone starting their journey in **local AI models and ML**.
